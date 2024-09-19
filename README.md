@@ -8,4 +8,6 @@ J'aime explorer de nouvelles technologies, résoudre des problèmes complexes et
 
 Je suis toujours ouvert aux collaborations et aux contributions sur des projets intéressants. N'hésitez pas à explorer mes dépôts et à me contacter si vous souhaitez travailler ensemble ou échanger des idées !
 
+> youhou
+
 [Lien de mon Portfolio](https://loicstr.github.io/)
