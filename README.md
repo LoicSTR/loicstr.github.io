@@ -1,6 +1,6 @@
-#Mon portfolio
+# Mon portfolio
 
-Bonjour ! 👋
+### Bonjour ! 👋
 
 Je suis un développeur passionné spécialisé en front-end. Mon GitHub est le reflet de mon parcours, où je partage mes projets, contributions open source et expérimentations techniques.
 
